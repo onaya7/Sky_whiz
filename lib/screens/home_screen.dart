@@ -14,7 +14,7 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _HomeScreenState extends State<HomeScreen> {
-  Widget getWeatherIcon(int code){
+  Widget getWeatherIcon(int code) {
     switch (code) {
       case >= 200 && < 300:
         return Image.asset('assets/1.png', scale: 0.5);
@@ -33,8 +33,8 @@ class _HomeScreenState extends State<HomeScreen> {
       default:
         return Image.asset('assets/8.png', scale: 0.5);
     }
-
   }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -120,8 +120,9 @@ class _HomeScreenState extends State<HomeScreen> {
                           ),
                         ),
                         Center(
-                          child: getWeatherIcon(state.weather.weatherConditionCode!), 
-                          ),
+                          child: getWeatherIcon(
+                              state.weather.weatherConditionCode!),
+                        ),
                         Center(
                             child: Text(
                                 '${state.weather.temperature!.celsius!.toStringAsFixed(0)}°C',
