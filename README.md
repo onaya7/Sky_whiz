@@ -31,8 +31,8 @@ Sky Whiz is a weather app built with Flutter that provides real-time weather inf
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/sky-whiz.git`
-2. Navigate to the project directory: `cd sky-whiz`
+1. Clone the repository: `git clone https://github.com/onaya7/Sky_whiz.git`
+2. Navigate to the project directory: `cd Sky_whiz`
 3. Install the dependencies: `flutter pub get`
 4. Start the app: `flutter run`
 
