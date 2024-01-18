@@ -4,9 +4,22 @@ Sky Whiz is a weather app built with Flutter that provides real-time weather inf
 
 ## Screenshots
 
-![Screen 1](screenshots/screen1.png)
-![Screen 2](screenshots/screen2.png)
-![Screen 3](screenshots/screen3.png)
+<table>
+  <tr>
+    <th>Screen 1</th>
+    <th>Screen 2</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/onaya7/Sky_whiz/assets/63925047/7706e99e-1c0b-4707-b550-71c32cd64a97" width=207 height=448></td>
+    <td><img src="https://github.com/onaya7/Sky_whiz/assets/63925047/e98783d5-3a0c-4a68-a41c-5d8274d33551" width=207 height=448></td>
+  </tr>
+  <tr>
+    <th>Screen 3</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/onaya7/Sky_whiz/assets/63925047/bb5c3449-e7ee-4c36-9804-c3447cc33501" width=207 height=448></td>
+  </tr>
+</table>
 
 ## Features
 
@@ -42,7 +55,8 @@ Contributions are welcome! If you'd like to contribute to Sky Whiz, please follo
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+Sky Whiz is released under the MIT License, which allows you to use, modify, and distribute the code freely. See the LICENSE file for more details 
+[MIT License](https://github.com/onaya7/Sky_whiz/blob/master/LICENSE.md).
 
 ## Contact
 
