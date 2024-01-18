@@ -2,6 +2,12 @@
 
 Sky Whiz is a weather app built with Flutter that provides real-time weather information for any location. With Sky Whiz, you can easily check the current weather conditions, temperature, humidity, wind speed, and more.
 
+## Screenshots
+
+![Screen 1](screenshots/screen1.png)
+![Screen 2](screenshots/screen2.png)
+![Screen 3](screenshots/screen3.png)
+
 ## Features
 
 - **Real-time Weather Data**: Sky Whiz fetches the latest weather data from reliable sources to provide accurate and up-to-date information.
